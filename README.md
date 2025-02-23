@@ -16,7 +16,7 @@ Exploitation ->
 
 Privelege Escalation->
 
-            Not enumerate Machine to get ROOT user access
+            NoW enumerate Machine to get ROOT user access
 
 
 
